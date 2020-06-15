@@ -1,6 +1,6 @@
 {
     "common": {
-        "name": "template",
+        "name": "autonoma",
         "version": "0.0.1",
         "news": {
             "0.0.1": {
@@ -16,21 +16,13 @@
                 "zh-cn": "首次出版"
             }
         },
-        "title": "Template (JavaScript)",
+        "title": "Autonoma Connector",
         "titleLang": {
-            "en": "Template (JavaScript)",
-            "de": "Vorlage (JavaScript)",
-            "ru": "Шаблон (JavaScript)",
-            "pt": "Modelo (JavaScript)",
-            "nl": "Sjabloon (JavaScript)",
-            "fr": "Modèle (JavaScript)",
-            "it": "Modello (JavaScript)",
-            "es": "Plantilla (JavaScript)",
-            "pl": "Szablon (JavaScript)",
-            "zh-cn": "范本（JavaScript）"
+            "en": "Autonoma Connector",
+            "de": "Autonoma Connector"
         },
         "desc": {
-            "en": "Template for adapter development",
+            "en": "Connect the ioBroker with the Autonoma cloud",
             "de": "Vorlage für die Adapterentwicklung",
             "ru": "Шаблон для разработки адаптера",
             "pt": "Modelo para desenvolvimento de adaptadores",
@@ -42,11 +34,11 @@
             "zh-cn": "适配器开发的模板"
         },
         "authors": [
-            "Author <author@mail.com>"
+            "Florian Bauernfeind <florian.bauernfeind@icloud.com>"
         ],
         "keywords": [
             "ioBroker",
-            "template",
+            "autonoma",
             "Smart Home",
             "home automation"
         ],
